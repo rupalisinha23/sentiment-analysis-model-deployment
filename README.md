@@ -18,7 +18,7 @@ Pytorch's LSTM + Fully Connected End Layer
 
 
 ## Evaluation and Results
-Accuracy score of 85.4% (This has a lot of scope of improvement where we can further experiment with the model architecture or with the tuning of the hyperparameters.)
+Accuracy score of 85.4% (This has a lot of scope for improvement where we can further experiment with the model architecture or with the tuning of the hyperparameters.)
 
 
 ## Getting Started
